@@ -1,3 +1,4 @@
+/* The universal selector (*) selects all HTML elements on the page. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,11 +9,12 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #ffffff; /* Set text color to white */
 }
 
 .header h1 {
@@ -41,7 +43,8 @@ body {
     margin-left: 25px;
 }
 
-a {
+/* Styling for individual navigation links */
+nav a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -102,6 +105,7 @@ p {
     max-width: 150px;
 }
 
+/* Article styles */
 section article {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +124,7 @@ section article h2 {
     font-size: 36px;
 }
 
+/* Footer styles */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,6 +132,6 @@ section article h2 {
     text-align: center;
 }
 
-.footer h2 {
+/* .footer h2 {
     font-size: 20px;
-}
+} */
