@@ -29,6 +29,14 @@ The primary goal of this project is to enhance the accessibility features of the
 - **Version Control:** Git
 - **Code Quality:** Prettier
 
+## Screenshot
+
+![Home Page](./assets/images/horiseon.png)
+
+## Link to Project
+
+The live version of this project can be found [here](https://caseygirlyn.github.io/horiseon/).
+
 ## License
 
 This project is licensed under the MIT License.
